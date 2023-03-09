@@ -1,3 +1,5 @@
+# Please visit https://github.com/iflytek/VLE for the latest content
+
 [**中文**](README_ZH.md) | [**English**](https://github.com/iflytek/VLE)
 
 <p align="center">
